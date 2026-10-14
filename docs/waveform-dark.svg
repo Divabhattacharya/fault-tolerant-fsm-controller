@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="424" viewBox="0 0 820 424" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">
+<rect x="0.5" y="0.5" width="819" height="423" rx="8" fill="#1a1a19" stroke="#383835"/>
+<line x1="132" y1="22" x2="132" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="156" y="18" fill="#898781" text-anchor="middle" font-size="10">0</text>
+<line x1="180" y1="22" x2="180" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="204" y="18" fill="#898781" text-anchor="middle" font-size="10">1</text>
+<line x1="228" y1="22" x2="228" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="252" y="18" fill="#898781" text-anchor="middle" font-size="10">2</text>
+<line x1="276" y1="22" x2="276" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="300" y="18" fill="#898781" text-anchor="middle" font-size="10">3</text>
+<line x1="324" y1="22" x2="324" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="348" y="18" fill="#898781" text-anchor="middle" font-size="10">4</text>
+<line x1="372" y1="22" x2="372" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="396" y="18" fill="#898781" text-anchor="middle" font-size="10">5</text>
+<line x1="420" y1="22" x2="420" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="444" y="18" fill="#898781" text-anchor="middle" font-size="10">6</text>
+<line x1="468" y1="22" x2="468" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="492" y="18" fill="#898781" text-anchor="middle" font-size="10">7</text>
+<line x1="516" y1="22" x2="516" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="540" y="18" fill="#898781" text-anchor="middle" font-size="10">8</text>
+<line x1="564" y1="22" x2="564" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="588" y="18" fill="#898781" text-anchor="middle" font-size="10">9</text>
+<line x1="612" y1="22" x2="612" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="636" y="18" fill="#898781" text-anchor="middle" font-size="10">10</text>
+<line x1="660" y1="22" x2="660" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="684" y="18" fill="#898781" text-anchor="middle" font-size="10">11</text>
+<line x1="708" y1="22" x2="708" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="732" y="18" fill="#898781" text-anchor="middle" font-size="10">12</text>
+<line x1="756" y1="22" x2="756" y2="384" stroke="#2c2c2a" stroke-width="1"/>
+<text x="780" y="18" fill="#898781" text-anchor="middle" font-size="10">13</text>
+<text x="14" y="49.0" fill="#c3c2b7">clk</text>
+<polyline points="132,37.0 156,37.0 156,53.0 180,53.0 180,37.0 204,37.0 204,53.0 228,53.0 228,37.0 252,37.0 252,53.0 276,53.0 276,37.0 300,37.0 300,53.0 324,53.0 324,37.0 348,37.0 348,53.0 372,53.0 372,37.0 396,37.0 396,53.0 420,53.0 420,37.0 444,37.0 444,53.0 468,53.0 468,37.0 492,37.0 492,53.0 516,53.0 516,37.0 540,37.0 540,53.0 564,53.0 564,37.0 588,37.0 588,53.0 612,53.0 612,37.0 636,37.0 636,53.0 660,53.0 660,37.0 684,37.0 684,53.0 708,53.0 708,37.0 732,37.0 732,53.0 756,53.0 756,37.0 780,37.0 780,53.0 804,53.0" fill="none" stroke="#c3c2b7" stroke-width="1.5"/>
+<text x="14" y="79.0" fill="#c3c2b7">start</text>
+<line x1="132" y1="83.0" x2="204" y2="83.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="204" y1="67.0" x2="252" y2="67.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="204" y1="67.0" x2="204" y2="83.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="252" y1="83.0" x2="540" y2="83.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="252" y1="67.0" x2="252" y2="83.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="540" y1="67.0" x2="588" y2="67.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="540" y1="67.0" x2="540" y2="83.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="588" y1="83.0" x2="804" y2="83.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="588" y1="67.0" x2="588" y2="83.0" stroke="#3987e5" stroke-width="2"/>
+<text x="14" y="109.0" fill="#c3c2b7">grant</text>
+<line x1="132" y1="113.0" x2="252" y2="113.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="252" y1="97.0" x2="300" y2="97.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="252" y1="97.0" x2="252" y2="113.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="300" y1="113.0" x2="636" y2="113.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="300" y1="97.0" x2="300" y2="113.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="636" y1="97.0" x2="684" y2="97.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="636" y1="97.0" x2="636" y2="113.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="684" y1="113.0" x2="804" y2="113.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="684" y1="97.0" x2="684" y2="113.0" stroke="#3987e5" stroke-width="2"/>
+<text x="14" y="139.0" fill="#c3c2b7">ack</text>
+<line x1="132" y1="143.0" x2="444" y2="143.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="444" y1="127.0" x2="492" y2="127.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="444" y1="127.0" x2="444" y2="143.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="492" y1="143.0" x2="804" y2="143.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="492" y1="127.0" x2="492" y2="143.0" stroke="#3987e5" stroke-width="2"/>
+<text x="14" y="169.0" fill="#c3c2b7">replica 0</text>
+<polygon points="132,165.0 135,157.0 225,157.0 228,165.0 225,173.0 135,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="180.0" y="169.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="228,165.0 231,157.0 273,157.0 276,165.0 273,173.0 231,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="252.0" y="169.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="276,165.0 279,157.0 321,157.0 324,165.0 321,173.0 279,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="300.0" y="169.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="324,165.0 327,157.0 465,157.0 468,165.0 465,173.0 327,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="396.0" y="169.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<polygon points="468,165.0 471,157.0 513,157.0 516,165.0 513,173.0 471,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="492.0" y="169.0" fill="#f0efec" text-anchor="middle">CMPL</text>
+<polygon points="516,165.0 519,157.0 561,157.0 564,165.0 561,173.0 519,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="540.0" y="169.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="564,165.0 567,157.0 657,157.0 660,165.0 657,173.0 567,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="612.0" y="169.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="660,165.0 663,157.0 705,157.0 708,165.0 705,173.0 663,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="684.0" y="169.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="708,165.0 711,157.0 801,157.0 804,165.0 801,173.0 711,173.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="756.0" y="169.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<text x="14" y="199.0" fill="#c3c2b7">replica 1</text>
+<polygon points="132,195.0 135,187.0 225,187.0 228,195.0 225,203.0 135,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="180.0" y="199.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="228,195.0 231,187.0 273,187.0 276,195.0 273,203.0 231,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="252.0" y="199.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="276,195.0 279,187.0 321,187.0 324,195.0 321,203.0 279,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="300.0" y="199.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="324,195.0 327,187.0 369,187.0 372,195.0 369,203.0 327,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="348.0" y="199.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<polygon points="372,195.0 375,187.0 417,187.0 420,195.0 417,203.0 375,203.0" fill="#e66767" fill-opacity="0.22" stroke="#e66767" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="396.0" y="199.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="420,195.0 423,187.0 465,187.0 468,195.0 465,203.0 423,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="444.0" y="199.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<polygon points="468,195.0 471,187.0 513,187.0 516,195.0 513,203.0 471,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="492.0" y="199.0" fill="#f0efec" text-anchor="middle">CMPL</text>
+<polygon points="516,195.0 519,187.0 561,187.0 564,195.0 561,203.0 519,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="540.0" y="199.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="564,195.0 567,187.0 657,187.0 660,195.0 657,203.0 567,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="612.0" y="199.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="660,195.0 663,187.0 705,187.0 708,195.0 705,203.0 663,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="684.0" y="199.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="708,195.0 711,187.0 801,187.0 804,195.0 801,203.0 711,203.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="756.0" y="199.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<text x="14" y="229.0" fill="#c3c2b7">replica 2</text>
+<polygon points="132,225.0 135,217.0 225,217.0 228,225.0 225,233.0 135,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="180.0" y="229.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="228,225.0 231,217.0 273,217.0 276,225.0 273,233.0 231,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="252.0" y="229.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="276,225.0 279,217.0 321,217.0 324,225.0 321,233.0 279,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="300.0" y="229.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="324,225.0 327,217.0 465,217.0 468,225.0 465,233.0 327,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="396.0" y="229.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<polygon points="468,225.0 471,217.0 513,217.0 516,225.0 513,233.0 471,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="492.0" y="229.0" fill="#f0efec" text-anchor="middle">CMPL</text>
+<polygon points="516,225.0 519,217.0 561,217.0 564,225.0 561,233.0 519,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="540.0" y="229.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="564,225.0 567,217.0 609,217.0 612,225.0 609,233.0 567,233.0" fill="#e66767" fill-opacity="0.22" stroke="#e66767" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="588.0" y="229.0" fill="#f0efec" text-anchor="middle">ERR</text>
+<polygon points="612,225.0 615,217.0 657,217.0 660,225.0 657,233.0 615,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="636.0" y="229.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="660,225.0 663,217.0 705,217.0 708,225.0 705,233.0 663,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="684.0" y="229.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="708,225.0 711,217.0 801,217.0 804,225.0 801,233.0 711,233.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="756.0" y="229.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<text x="14" y="259.0" fill="#c3c2b7">voted state</text>
+<polygon points="132,255.0 135,247.0 225,247.0 228,255.0 225,263.0 135,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="180.0" y="259.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="228,255.0 231,247.0 273,247.0 276,255.0 273,263.0 231,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="252.0" y="259.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="276,255.0 279,247.0 321,247.0 324,255.0 321,263.0 279,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="300.0" y="259.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="324,255.0 327,247.0 465,247.0 468,255.0 465,263.0 327,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="396.0" y="259.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<polygon points="468,255.0 471,247.0 513,247.0 516,255.0 513,263.0 471,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="492.0" y="259.0" fill="#f0efec" text-anchor="middle">CMPL</text>
+<polygon points="516,255.0 519,247.0 561,247.0 564,255.0 561,263.0 519,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="540.0" y="259.0" fill="#f0efec" text-anchor="middle">IDLE</text>
+<polygon points="564,255.0 567,247.0 657,247.0 660,255.0 657,263.0 567,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="612.0" y="259.0" fill="#f0efec" text-anchor="middle">REQ</text>
+<polygon points="660,255.0 663,247.0 705,247.0 708,255.0 705,263.0 663,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="684.0" y="259.0" fill="#f0efec" text-anchor="middle">ADDR</text>
+<polygon points="708,255.0 711,247.0 801,247.0 804,255.0 801,263.0 711,263.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="756.0" y="259.0" fill="#f0efec" text-anchor="middle">DATA</text>
+<text x="14" y="289.0" fill="#c3c2b7">data_en</text>
+<line x1="132" y1="293.0" x2="324" y2="293.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="324" y1="277.0" x2="468" y2="277.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="324" y1="277.0" x2="324" y2="293.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="468" y1="293.0" x2="708" y2="293.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="468" y1="277.0" x2="468" y2="293.0" stroke="#3987e5" stroke-width="2"/>
+<line x1="708" y1="277.0" x2="804" y2="277.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="708" y1="277.0" x2="708" y2="293.0" stroke="#3987e5" stroke-width="2"/>
+<text x="14" y="319.0" fill="#c3c2b7">err</text>
+<line x1="132" y1="323.0" x2="804" y2="323.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<text x="14" y="349.0" fill="#c3c2b7">fault_detected</text>
+<line x1="132" y1="353.0" x2="372" y2="353.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<rect x="372" y="337.0" width="48" height="16" fill="#e66767" fill-opacity="0.16"/>
+<line x1="372" y1="337.0" x2="420" y2="337.0" stroke="#e66767" stroke-width="2" stroke-linecap="round"/>
+<line x1="372" y1="337.0" x2="372" y2="353.0" stroke="#e66767" stroke-width="2"/>
+<line x1="420" y1="353.0" x2="564" y2="353.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="420" y1="337.0" x2="420" y2="353.0" stroke="#3987e5" stroke-width="2"/>
+<rect x="564" y="337.0" width="48" height="16" fill="#e66767" fill-opacity="0.16"/>
+<line x1="564" y1="337.0" x2="612" y2="337.0" stroke="#e66767" stroke-width="2" stroke-linecap="round"/>
+<line x1="564" y1="337.0" x2="564" y2="353.0" stroke="#e66767" stroke-width="2"/>
+<line x1="612" y1="353.0" x2="804" y2="353.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
+<line x1="612" y1="337.0" x2="612" y2="353.0" stroke="#3987e5" stroke-width="2"/>
+<text x="14" y="379.0" fill="#c3c2b7">corrected_cnt</text>
+<polygon points="132,375.0 135,367.0 417,367.0 420,375.0 417,383.0 135,383.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="276.0" y="379.0" fill="#f0efec" text-anchor="middle">0</text>
+<polygon points="420,375.0 423,367.0 609,367.0 612,375.0 609,383.0 423,383.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="516.0" y="379.0" fill="#f0efec" text-anchor="middle">1</text>
+<polygon points="612,375.0 615,367.0 801,367.0 804,375.0 801,383.0 615,383.0" fill="#3987e5" fill-opacity="0.08" stroke="#3987e5" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="708.0" y="379.0" fill="#f0efec" text-anchor="middle">2</text>
+<rect x="14" y="402" width="14" height="10" rx="2" fill="#e66767" fill-opacity="0.22" stroke="#e66767" stroke-width="1.5"/>
+<text x="36" y="411" fill="#c3c2b7">replica corrupted by an injected upset: outvoted, then rewritten at the next clock edge</text>
+</svg>
