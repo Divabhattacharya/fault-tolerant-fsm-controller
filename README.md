@@ -167,9 +167,9 @@ caught:
 
 ## Run it
 
-Requires Icarus Verilog and Yosys. Tested locally with Icarus Verilog 13.0 and
-Yosys 0.70. GitHub Actions re-runs everything on every push using Ubuntu's
-packaged versions.
+Requires Icarus Verilog and Yosys. Tested with Icarus Verilog 13.0 / Yosys 0.70
+locally and Icarus Verilog 12.0 / Yosys 0.33 in GitHub Actions, which re-runs
+all tests and synthesis on every push.
 
 ```bash
 make test     # automated fault-injection testbench
